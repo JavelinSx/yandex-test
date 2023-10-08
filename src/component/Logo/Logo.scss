@@ -1,0 +1,25 @@
+.logo{
+    position: relative;
+    display: flex;
+    gap: 10px;
+    &:hover{
+        cursor: pointer;
+    }
+}
+.logo-yandex{
+    width: 72px;
+    height: 21px;
+}
+.logo-go{
+    width: 26px;
+    height: 18px;
+    z-index: 1;
+}
+.logo-go-black{
+    position: absolute;
+    left: 78px;
+    bottom: -5px;
+    width: 35px;
+    height: 32px;
+    z-index: 0;
+}
