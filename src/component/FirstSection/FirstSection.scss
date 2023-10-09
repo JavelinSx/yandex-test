@@ -2,19 +2,18 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    width: 100%;
     padding-top: 38px;
     box-sizing: border-box;
-    height: 636px;
     background: 
     linear-gradient( to right,  rgba(255, 92, 77, .2), rgba(235, 70, 159, .2), rgba(131, 65, 239, .2), rgba(63, 104, 249, .2));
 }
 .first-section__content-wrapper{
-    position: relative;
+
 }
+
 .first-section__title{
-
-
+    width: 223px;
+    padding-bottom: 26px;
 }
 .first-section__title-text-img{
     align-self: flex-start;
@@ -22,8 +21,7 @@
 }
 .first-section__title-text{
     position: relative;
-    max-width: 311px;
-    width: 100%;
+    width: 311px;
     line-height: 130%;
 }
 .first-section__title-price{
@@ -32,12 +30,13 @@
     right: 97px;
 }
 .first-section__samokat{
-    position: absolute;
-    top: 251px;
-    left: -27px;
+    width: 354px;
+    height: 308px;
+    object-position: -26px -6px;
+
 }
 .first-section__samokat-text{
     position: absolute;
-    top: 402px;
+    top: 401px;
     left: 73px;
 }

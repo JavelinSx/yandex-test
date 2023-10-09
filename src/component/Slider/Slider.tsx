@@ -31,7 +31,6 @@ const Slider: FC<SliderProps> = () => {
         <div className='slider'>
             <div className='slider__container' style={{ 
                 transform: `translateX(-${activeIndex * (375)}px)`,
-                width: `${imgList.length*375}px`
             }}>
                 {
                     imgList.map((img) => {

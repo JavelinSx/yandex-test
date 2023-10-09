@@ -5,26 +5,25 @@
     align-items: center;
 }
 .second-section__title{
-    align-self: flex-start;
+    font-size: 32px;
+    padding-bottom: 28px;
 }
 .second-section__list{
     display: flex;
     flex-direction: column;
-    gap: 24px;
-    padding-top: 21px;
+
 }
 .second-section__item{
+    padding-bottom: 23px;
     display: flex;
     flex-direction: row;
     align-items: center;
     &:last-child{
         line-height: 1.1;
+        padding-bottom: 0;
     }
 }
 .second-section__item-text{
-    font-family: 'YS-Medium';
-    font-size: 16px;
     width: 212px;
     padding-left: 15px;
-
 }

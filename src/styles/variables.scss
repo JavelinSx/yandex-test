@@ -8,4 +8,27 @@
 .text-common{
     font-family: 'YS-Medium';
     font-size: 16px;
+    line-height: 1.2;
+}
+.text-title-main{
+    font-family: 'YS-Black';
+    font-size: 36px;
+    width: 311px;
+    padding-bottom: 32px;
+    letter-spacing: -.5px;
+    line-height: 1;
+}
+.text-title{
+    font-family: 'YS-Black';
+    font-size: 32px;
+    width: 311px;
+    padding-bottom: 23px;
+    letter-spacing: -.5px;
+    line-height: 1;
+}
+.wrapper{
+    position: relative;
+    width: 310px;
+    display: flex;
+    flex-direction: column;
 }
