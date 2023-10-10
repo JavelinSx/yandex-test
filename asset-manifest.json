@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/yandex-test/static/css/main.53d03ce6.css",
-    "main.js": "/yandex-test/static/js/main.68f55241.js",
+    "main.css": "/yandex-test/static/css/main.2114d6f1.css",
+    "main.js": "/yandex-test/static/js/main.6d10ee0e.js",
     "static/media/samokat-solo+text.webp": "/yandex-test/static/media/samokat-solo+text.1cdb42430ed99a3ea8d5.webp",
     "static/media/samokat-photo+.webp": "/yandex-test/static/media/samokat-photo+.37270674be100d8886c1.webp",
     "static/media/YandexSansText-Black.woff": "/yandex-test/static/media/YandexSansText-Black.dfe120e04e3094ddc266.woff",
@@ -28,11 +28,11 @@
     "static/media/button-slider-left.svg": "/yandex-test/static/media/button-slider-left.b56709262fb8b868b868.svg",
     "static/media/button-slider-right.svg": "/yandex-test/static/media/button-slider-right.5213f326c5d58b3bc887.svg",
     "index.html": "/yandex-test/index.html",
-    "main.53d03ce6.css.map": "/yandex-test/static/css/main.53d03ce6.css.map",
-    "main.68f55241.js.map": "/yandex-test/static/js/main.68f55241.js.map"
+    "main.2114d6f1.css.map": "/yandex-test/static/css/main.2114d6f1.css.map",
+    "main.6d10ee0e.js.map": "/yandex-test/static/js/main.6d10ee0e.js.map"
   },
   "entrypoints": [
-    "static/css/main.53d03ce6.css",
-    "static/js/main.68f55241.js"
+    "static/css/main.2114d6f1.css",
+    "static/js/main.6d10ee0e.js"
   ]
 }
