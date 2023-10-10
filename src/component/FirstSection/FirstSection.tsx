@@ -3,7 +3,7 @@ import { useState, useEffect } from 'react';
 import Header from '../Header/Header';
 import titlePrice from '../../img/title-price.png';
 import titlePrice1440 from '../../img/title-price1440.png';
-import samokatImg from '../../img/samokat-photo.png';
+import samokatImg from '../../img/samokat-photo.webp';
 import samokatText from '../../img/samokat-text.png';
 import Button from '../Button/Button';
 interface FirstSectionProps {}

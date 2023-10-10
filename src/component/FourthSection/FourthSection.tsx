@@ -1,8 +1,8 @@
 import type { FC } from 'react';
 import { useState, useEffect } from 'react';
 
-import samokatTextBlur from '../../img/samokat-solo+text375.png';
-import samokatPlus from '../../img/samokat-photo+.png';
+import samokatTextBlur from '../../img/samokat-solo+text375.webp';
+import samokatPlus from '../../img/samokat-photo+.webp';
 
 interface FourthSectionProps {}
 

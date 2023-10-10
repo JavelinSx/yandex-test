@@ -1,6 +1,6 @@
 import type { FC } from 'react';
 import { useState, useEffect } from 'react';
-import samolatSoloAndText from '../../img/samokat-solo+text.png';
+import samolatSoloAndText from '../../img/samokat-solo+text.webp';
 import Button from '../Button/Button';
 interface FifthSectionProps {}
 
