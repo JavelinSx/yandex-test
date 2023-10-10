@@ -6,7 +6,13 @@ interface ButtonProps {
 }
 
 const Button: FC<ButtonProps> = ({ text, className }) => {
-  return <button className={className}>{text}</button>;
+  return (
+    <button className={className}>
+      <a href='https://go.yandex/ru_ru/lp/rides/scooter' rel='noreferrer' target='_blank'>
+        {text}
+      </a>
+    </button>
+  );
 };
 
 export default Button;
