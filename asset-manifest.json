@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/yandex-test/static/css/main.53d03ce6.css",
-    "main.js": "/yandex-test/static/js/main.54d1f2eb.js",
-    "static/media/samokat-photo+.png": "/yandex-test/static/media/samokat-photo+.f405ad1ce65f19954b71.png",
-    "static/media/samokat-solo+text.png": "/yandex-test/static/media/samokat-solo+text.84c203f60271883bc7fb.png",
-    "static/media/slider1.png": "/yandex-test/static/media/slider1.25107d85dcbac7978b17.png",
-    "static/media/samokat-photo.png": "/yandex-test/static/media/samokat-photo.15348174001e3916a813.png",
-    "static/media/slider2.png": "/yandex-test/static/media/slider2.d7fbe40d45365dc91dba.png",
-    "static/media/slider3.png": "/yandex-test/static/media/slider3.5bd83536574ba80517eb.png",
-    "static/media/slider4.png": "/yandex-test/static/media/slider4.e293b3eda052ae117e6c.png",
-    "static/media/samokat-solo+text375.png": "/yandex-test/static/media/samokat-solo+text375.8a2df1684035ef261743.png",
+    "main.js": "/yandex-test/static/js/main.68f55241.js",
+    "static/media/samokat-solo+text.webp": "/yandex-test/static/media/samokat-solo+text.1cdb42430ed99a3ea8d5.webp",
+    "static/media/samokat-photo+.webp": "/yandex-test/static/media/samokat-photo+.37270674be100d8886c1.webp",
     "static/media/YandexSansText-Black.woff": "/yandex-test/static/media/YandexSansText-Black.dfe120e04e3094ddc266.woff",
+    "static/media/samokat-solo+text375.webp": "/yandex-test/static/media/samokat-solo+text375.fe09784f11b7a388b239.webp",
     "static/media/YandexSansText-Medium.woff2": "/yandex-test/static/media/YandexSansText-Medium.43fa0def7951e857f96c.woff2",
     "static/media/YandexSansText-Bold.woff2": "/yandex-test/static/media/YandexSansText-Bold.b7699b9b700ad29caa9b.woff2",
     "static/media/YandexSansText-Regular.woff2": "/yandex-test/static/media/YandexSansText-Regular.fd627cc781ea46efb18f.woff2",
+    "static/media/samokat-photo.webp": "/yandex-test/static/media/samokat-photo.60dea3357c6c71ae2067.webp",
+    "static/media/slider2.webp": "/yandex-test/static/media/slider2.00a06228ef6842ed7864.webp",
+    "static/media/slider1.webp": "/yandex-test/static/media/slider1.bfbce6bae4fd80de3635.webp",
+    "static/media/slider3.webp": "/yandex-test/static/media/slider3.df885d24cfaab241bea8.webp",
     "static/media/samokat-text.png": "/yandex-test/static/media/samokat-text.1893ca23c180ab6e5609.png",
+    "static/media/slider4.webp": "/yandex-test/static/media/slider4.b35087e131cabc7c36d1.webp",
     "static/media/secondSectionIconSamokat.svg": "/yandex-test/static/media/secondSectionIconSamokat.40c719d5d88845948bc54a7552d0f366.svg",
     "static/media/secondSectionIconSamokat375.svg": "/yandex-test/static/media/secondSectionIconSamokat375.2deb1866ccf5622a08fa8d5a4889316f.svg",
     "static/media/secondSectionIconMoney375.svg": "/yandex-test/static/media/secondSectionIconMoney375.7e1528c29e282854038a0131f918f867.svg",
@@ -29,10 +29,10 @@
     "static/media/button-slider-right.svg": "/yandex-test/static/media/button-slider-right.5213f326c5d58b3bc887.svg",
     "index.html": "/yandex-test/index.html",
     "main.53d03ce6.css.map": "/yandex-test/static/css/main.53d03ce6.css.map",
-    "main.54d1f2eb.js.map": "/yandex-test/static/js/main.54d1f2eb.js.map"
+    "main.68f55241.js.map": "/yandex-test/static/js/main.68f55241.js.map"
   },
   "entrypoints": [
     "static/css/main.53d03ce6.css",
-    "static/js/main.54d1f2eb.js"
+    "static/js/main.68f55241.js"
   ]
 }
