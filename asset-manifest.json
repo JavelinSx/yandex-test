@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/yandex-test/static/css/main.53d03ce6.css",
+    "main.js": "/yandex-test/static/js/main.54d1f2eb.js",
+    "static/media/samokat-photo+.png": "/yandex-test/static/media/samokat-photo+.f405ad1ce65f19954b71.png",
+    "static/media/samokat-solo+text.png": "/yandex-test/static/media/samokat-solo+text.84c203f60271883bc7fb.png",
+    "static/media/slider1.png": "/yandex-test/static/media/slider1.25107d85dcbac7978b17.png",
+    "static/media/samokat-photo.png": "/yandex-test/static/media/samokat-photo.15348174001e3916a813.png",
+    "static/media/slider2.png": "/yandex-test/static/media/slider2.d7fbe40d45365dc91dba.png",
+    "static/media/slider3.png": "/yandex-test/static/media/slider3.5bd83536574ba80517eb.png",
+    "static/media/slider4.png": "/yandex-test/static/media/slider4.e293b3eda052ae117e6c.png",
+    "static/media/samokat-solo+text375.png": "/yandex-test/static/media/samokat-solo+text375.8a2df1684035ef261743.png",
+    "static/media/YandexSansText-Black.woff": "/yandex-test/static/media/YandexSansText-Black.dfe120e04e3094ddc266.woff",
+    "static/media/YandexSansText-Medium.woff2": "/yandex-test/static/media/YandexSansText-Medium.43fa0def7951e857f96c.woff2",
+    "static/media/YandexSansText-Bold.woff2": "/yandex-test/static/media/YandexSansText-Bold.b7699b9b700ad29caa9b.woff2",
+    "static/media/YandexSansText-Regular.woff2": "/yandex-test/static/media/YandexSansText-Regular.fd627cc781ea46efb18f.woff2",
+    "static/media/samokat-text.png": "/yandex-test/static/media/samokat-text.1893ca23c180ab6e5609.png",
+    "static/media/secondSectionIconSamokat.svg": "/yandex-test/static/media/secondSectionIconSamokat.40c719d5d88845948bc54a7552d0f366.svg",
+    "static/media/secondSectionIconSamokat375.svg": "/yandex-test/static/media/secondSectionIconSamokat375.2deb1866ccf5622a08fa8d5a4889316f.svg",
+    "static/media/secondSectionIconMoney375.svg": "/yandex-test/static/media/secondSectionIconMoney375.7e1528c29e282854038a0131f918f867.svg",
+    "static/media/secondSectionIconMoney.svg": "/yandex-test/static/media/secondSectionIconMoney.21a9432532853c505254adc40130dd93.svg",
+    "static/media/secondSectionIconTime.svg": "/yandex-test/static/media/secondSectionIconTime.081adf14819c92e19f7b0bfff73d0fc3.svg",
+    "static/media/secondSectionIconTime375.svg": "/yandex-test/static/media/secondSectionIconTime375.1a47a013796fcd8cfa482f64809a0b5c.svg",
+    "static/media/yandex.svg": "/yandex-test/static/media/yandex.3ffc8deb35961059157f4227aefad552.svg",
+    "static/media/secondSectionIconBattarey.svg": "/yandex-test/static/media/secondSectionIconBattarey.4f3493a9567723ee164a8a5701edc10d.svg",
+    "static/media/secondSectionIconBattarey375.svg": "/yandex-test/static/media/secondSectionIconBattarey375.aa50c232d3f20a7f0ff13839f1773967.svg",
+    "static/media/black-go.svg": "/yandex-test/static/media/black-go.f3993c838cff073b2a16b3e870613642.svg",
+    "static/media/button-slider-left.svg": "/yandex-test/static/media/button-slider-left.b56709262fb8b868b868.svg",
+    "static/media/button-slider-right.svg": "/yandex-test/static/media/button-slider-right.5213f326c5d58b3bc887.svg",
+    "index.html": "/yandex-test/index.html",
+    "main.53d03ce6.css.map": "/yandex-test/static/css/main.53d03ce6.css.map",
+    "main.54d1f2eb.js.map": "/yandex-test/static/js/main.54d1f2eb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53d03ce6.css",
+    "static/js/main.54d1f2eb.js"
+  ]
+}
