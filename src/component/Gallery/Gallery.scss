@@ -1,0 +1,26 @@
+.gallery-wrapper {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  gap: 33px;
+  height: 1164px;
+  position: absolute;
+  top: 80px;
+  right: 16px;
+}
+.gallery-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  transform: rotate(2deg); /* Поворот всей колонки на 8 градусов */
+  gap: 22px;
+}
+.gallery-img {
+  width: 455px;
+}
+.gallery-down {
+  margin-top: 424px;
+}
+.gallery-up {
+}

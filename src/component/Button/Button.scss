@@ -1,0 +1,18 @@
+.button {
+  background-color: #ffde40;
+  height: 65px;
+  width: 319px;
+  margin-left: 15px;
+  border-radius: 36px;
+  font-family: 'YS-Bold';
+  font-size: 24px;
+  z-index: 2;
+  -webkit-box-shadow: 0px 4px 64px 0px rgba(255, 222, 64, 0.59);
+  -moz-box-shadow: 0px 4px 64px 0px rgba(255, 222, 64, 0.59);
+  box-shadow: 0px 4px 64px 0px rgba(255, 222, 64, 0.59);
+}
+.button-small {
+  margin-left: 1px;
+  width: 281px;
+  letter-spacing: -0.5px;
+}

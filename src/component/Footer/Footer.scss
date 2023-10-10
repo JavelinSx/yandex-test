@@ -1,14 +1,23 @@
-.footer{
-    width: 310px;
-    padding-top: 104px;
+.footer {
+  width: 310px;
+  padding-top: 38px;
+  padding-bottom: 72px;
 }
-.footer-text{
-    font-family: 'YS-Regular';
-    font-size: 10px;
-    color: #C5C5C5;
+.footer-text {
+  font-family: 'YS-Regular';
+  font-size: 10px;
+  color: #c5c5c5;
 }
-.footer-link{
-    text-decoration: none;
-    color: inherit;
-    cursor: pointer;
+.footer-link {
+  text-decoration: none;
+  color: inherit;
+  cursor: pointer;
+}
+@media (min-width: 1024px) and (max-width: 100vw) {
+  .footer {
+    width: 906px;
+  }
+  .footer-text {
+    font-size: 13px;
+  }
 }
